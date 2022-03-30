@@ -1,1 +1,1 @@
-Starter-Pack
+Personnal starter for React applications.
